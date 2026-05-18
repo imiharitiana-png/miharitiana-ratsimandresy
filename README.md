@@ -2,7 +2,7 @@
 
 ## 🖊️ Rédactrice Web SEO | Copywriter | Content Writer
 
-Rédactrice web SEO avec plus de 3 ans d'expérience en création de contenus optimisés pour le référencement naturel.  
+rédactrice SEO avec plus de 3 ans d'expérience en création de contenus optimisés pour le référencement naturel.  
 Spécialisée dans la vulgarisation de sujets techniques et la production de contenus éditoriaux pour divers secteurs (tech, e-commerce, service client).  
 À la recherche d'un poste de rédactrice SEO pour accompagner une agence web dans le développement de sa stratégie de contenu.
 
