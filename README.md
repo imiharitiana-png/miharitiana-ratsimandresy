@@ -59,7 +59,7 @@ Spécialisée dans la vulgarisation de sujets techniques et la production de con
 ## 🌍 Langues
 
 - 🇫🇷 **Français** : courant
-- 🇬🇧 **Anglais** : professionnel (lecture et compréhension de documentation)
+- 🇬🇧 Anglais : professionnel (lecture et compréhension de documentation)
 
 ---
 
