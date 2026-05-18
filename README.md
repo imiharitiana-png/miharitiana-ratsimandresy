@@ -1,21 +1,43 @@
 # Bonjour, je suis Miharitiana Ratsimandresy 👋
 
-## 🖊️ Rédactrice Web SEO | Copywriter | Content Writer
+## 🖊️ Rédactrice Web SEO | Assistante Virtuelle Freelance | Copywriter
 
-Rédactrice web SEO avec plus de 3 ans d'expérience en création de contenus optimisés pour le référencement naturel.  
-Spécialisée dans la vulgarisation de sujets techniques et la production de contenus éditoriaux pour divers secteurs (tech, e-commerce, service client).  
-À la recherche d'un poste de rédactrice SEO pour accompagner une agence web dans le développement de sa stratégie de contenu.
+Freelance avec plus de 10 ans d'expérience multisectorielle, disponible 100% à distance
+pour deux types de missions : **Rédaction Web SEO** et **Assistanat Virtuel**.
+
+---
+
+## ✍️ Rédaction Web SEO & Copywriting
+
+- Rédaction d'articles de blog, pages services et fiches produits optimisés Google
+- Recherche de mots-clés approfondie avec SEMrush & SurferSEO
+- Intégration directe sur WordPress — livrable clé en main
+- Contenus orientés conversion : trafic qualifié + crédibilité
+
+👉 **Résultat : plus de visibilité, plus de trafic, plus de clients**
+
+---
+
+## 🗂️ Assistante Virtuelle & Administrative
+
+- Gestion d'emails, agenda, planning et coordination à distance
+- Rédaction de courriers, comptes rendus et rapports professionnels
+- Suivi administratif, facturation et gestion documentaire
+- Support direction, gestion d'équipe et reporting
+- Maîtrise : Pack Office, Google Workspace, Notion, Trello, Slack
+
+👉 **Résultat : vous gagnez du temps, zéro erreur, organisation fluide**
 
 ---
 
 ## 💼 Expériences professionnelles
 
-### ✍️ Rédactrice Web Freelance — *Indépendant* (sept. 2025 – aujourd'hui)
+### ✍️ Rédactrice Web Freelance — *Indépendant* (sept. 2022 – aujourd'hui)
 - Rédaction de contenus éditoriaux autour de l'actualité des célébrités et personnalités publiques
 - Création d'articles optimisés SEO (entreprise, technologie, services)
 - Adaptation du ton et du style selon la cible et le canal de diffusion
 
-### 🖥️ Web Content Writer — *Servitel* (oct. 2022 – oct. 2025)
+### 🖥️ Web Content Writer — *Servitel* (sept. 2022 – aujourd'hui)
 - Rédaction de guides d'orientation client et de contenus service client
 - Simplification de parcours clients complexes avec un langage clair et structuré
 - Optimisation SEO pour améliorer la visibilité en ligne et l'expérience utilisateur
@@ -26,7 +48,7 @@ Spécialisée dans la vulgarisation de sujets techniques et la production de con
 - Adaptation du contenu pour améliorer la décision d'achat
 
 ### 🗂️ Assistante Administrative — *H Entreprise* (janv. 2016 – janv. 2022)
-- Gestion administrative complète : accueil, courrier, planification, suivi d'agendas
+- Gestion administrative complète : emails, courriers, planification, suivi d'agendas
 - Rédaction de comptes rendus, courriers professionnels et rapports
 - Optimisation des processus internes et support aux équipes
 
@@ -39,9 +61,9 @@ Spécialisée dans la vulgarisation de sujets techniques et la production de con
 
 ## 🎓 Formation
 
-- 🎓 **Licence ès-Lettres Françaises** — option Management & Médiation Culturelle | Université d'Antananarivo (2006 – 2008)
-- 📜 **Certificat d'aptitude professionnelle en Management** | H Formation (2007 – 2008)
-- 🏅 **Certifications LinkedIn Learning** : Marketing digital, SEO, Canva (2023)
+- 🎓 **Licence ès-Lettres Françaises** — option Management & Médiation Culturelle | Université d'Antananarivo (2011 – 2014)
+- 📜 **Certificat d'aptitude professionnelle en Management** | H Formation
+- 🏅 **Certifications LinkedIn Learning** : Marketing digital, SEO, Canva, Copywriting, SEMrush (2023)
 
 ---
 
@@ -51,7 +73,7 @@ Spécialisée dans la vulgarisation de sujets techniques et la production de con
 |---|---|
 | ✍️ Rédaction & SEO | SEMrush, SurferSEO, Yoast, recherche de mots-clés |
 | 🖥️ Gestion de contenu | WordPress, Notion, Trello |
-| 📋 Administration | Pack Office, reporting, gestion de projet |
+| 🗂️ Assistanat virtuel | Pack Office, Google Workspace, Slack |
 | 🎨 Création | Canva, copywriting, storytelling |
 
 ---
@@ -59,7 +81,13 @@ Spécialisée dans la vulgarisation de sujets techniques et la production de con
 ## 🌍 Langues
 
 - 🇫🇷 **Français** : courant
-- 🇬🇧 Anglais : professionnel (lecture et compréhension de documentation)
+- 🇬🇧 **Anglais** : professionnel (lecture et compréhension de documentation)
+
+---
+
+## 📊 Mes statistiques GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imiharitiana-png&show_icons=true&theme=default&locale=fr)
 
 ---
 
@@ -67,4 +95,4 @@ Spécialisée dans la vulgarisation de sujets techniques et la production de con
 
 - 💼 GitHub : [miharitiana-ratsimandresy](https://github.com/imiharitiana-png)
 - 📧 Email : [imiharitiana@gmail.com](mailto:imiharitiana@gmail.com)
-- 🔗 LinkedIn : [Miharitiana Ratsimandresy](https://www.linkedin.com/in/ratsimandresy-miharitianaaritiana-7038141b6/)
+- 🔗 LinkedIn : [Miharitiana Ratsimandresy](https://www.linkedin.com/in/miharitiana-ratsim)
