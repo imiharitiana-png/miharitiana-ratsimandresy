@@ -66,3 +66,5 @@ Spécialisée dans la vulgarisation de sujets techniques et la production de con
 ## 📫 Me contacter
 
 - 💼 GitHub : [miharitiana-ratsimandresy](https://github.com/imiharitiana-png)
+- 📧 Email : [imiharitiana@gmail.com](mailto:imiharitiana@gmail.com)
+- 🔗 LinkedIn : [Miharitiana Ratsimandresy](https://www.linkedin.com/in/ratsimandresy-miharitianaaritiana-7038141b6/)
